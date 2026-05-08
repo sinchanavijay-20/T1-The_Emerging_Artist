@@ -24,5 +24,3 @@ Participants are expected to build a system capable of connecting aspiring learn
 traditional experts, structuring knowledge into accessible learning pathways, and adapting 
 ancient practices into formats suited to modern engagement — without diluting their cultural 
 integrity.
-Problem Statement 5: The Invisible Heritage Site
-Across towns, districts, and rural landscapes, heritage sites of ge
